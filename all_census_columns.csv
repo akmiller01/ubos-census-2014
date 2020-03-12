@@ -1,0 +1,457 @@
+sheet,variable_name,parish_count
+1.Pop. & HH Composition,District,2327
+1.Pop. & HH Composition,County,2327
+1.Pop. & HH Composition,Subcounty,2327
+1.Pop. & HH Composition,Parish,2327
+1.Pop. & HH Composition,Population.Size.by.Parish,2327
+1.Pop. & HH Composition,Female,2327
+1.Pop. & HH Composition,Sex Ratio ,2327
+1.Pop. & HH Composition,Total,2327
+1.Pop. & HH Composition,Headship.of.Households.by.Sex,2327
+1.Pop. & HH Composition,Percent,2327
+1.Pop. & HH Composition,Fenale Headed,2327
+1.Pop. & HH Composition,Percent.1,2327
+1.Pop. & HH Composition,Household.Headship.by.specific.age.groups,2327
+1.Pop. & HH Composition,Percent.2,2326
+1.Pop. & HH Composition,18-30,2327
+1.Pop. & HH Composition,Percent.3,2327
+1.Pop. & HH Composition,60+,2327
+1.Pop. & HH Composition,Percent.4,2327
+1.Pop. & HH Composition,Total HHds,2327
+1.Pop. & HH Composition,HHd.Population.by.Broad.Ages,2327
+1.Pop. & HH Composition,Percent.5,2327
+1.Pop. & HH Composition,18-30.1,2327
+1.Pop. & HH Composition,Percent.6,2327
+1.Pop. & HH Composition,31-59,2327
+1.Pop. & HH Composition,Percent.7,2327
+1.Pop. & HH Composition,60+.1,2327
+1.Pop. & HH Composition,Percent.8,2327
+1.Pop. & HH Composition,Total HH Pop,2327
+1.Pop. & HH Composition,Population.Distribution.by.Special.Age.groups,2327
+1.Pop. & HH Composition,Percent.9,2327
+1.Pop. & HH Composition,0-4 Years,2327
+1.Pop. & HH Composition,Percent.10,2327
+1.Pop. & HH Composition,0-8 Years,2327
+1.Pop. & HH Composition,Percent.11,2327
+1.Pop. & HH Composition,2-8 Years,2327
+1.Pop. & HH Composition,Percent.12,2327
+1.Pop. & HH Composition,2-17 Years,2327
+1.Pop. & HH Composition,Percent.13,2327
+1.Pop. & HH Composition,6-12 Years,2327
+1.Pop. & HH Composition,Percent.14,2327
+1.Pop. & HH Composition,6-15 Years,2327
+1.Pop. & HH Composition,Percent.15,2327
+1.Pop. & HH Composition,10-15 Years,2327
+1.Pop. & HH Composition,Percent.16,2327
+1.Pop. & HH Composition,10-17 Years,2327
+1.Pop. & HH Composition,Percent.17,2327
+1.Pop. & HH Composition,15-24 Years,2327
+1.Pop. & HH Composition,Percent.18,2327
+1.Pop. & HH Composition,16-24 Years,2327
+1.Pop. & HH Composition,Percent.19,2327
+1.Pop. & HH Composition,15-29 Years,2327
+1.Pop. & HH Composition,Percent.20,2327
+1.Pop. & HH Composition,2 Years and Above,2327
+1.Pop. & HH Composition,Percent.21,2327
+1.Pop. & HH Composition,10 Years and Above,2327
+1.Pop. & HH Composition,Percent.22,2327
+1.Pop. & HH Composition,15 Years and Above,2327
+1.Pop. & HH Composition,Percent.23,2327
+1.Pop. & HH Composition,18 Years and above,2327
+1.Pop. & HH Composition,Percent.24,2327
+1.Pop. & HH Composition,20 Years and above,2327
+1.Pop. & HH Composition,Percent.25,2327
+1.Pop. & HH Composition,65 Years and Above,2327
+1.Pop. & HH Composition,Percent.26,2327
+2.Educ. & Literacy,District,2327
+2.Educ. & Literacy,County,2327
+2.Educ. & Literacy,Subcounty,2327
+2.Educ. & Literacy,Parish,2327
+2.Educ. & Literacy,Population.6-12.Years.not.attending.school,2327
+2.Educ. & Literacy,Percent,2327
+2.Educ. & Literacy,Females,2327
+2.Educ. & Literacy,Percent.1,2327
+2.Educ. & Literacy,Both Sexes,2327
+2.Educ. & Literacy,Percent.2,2327
+2.Educ. & Literacy,Population.(6-12).Attending.Primary.School,2327
+2.Educ. & Literacy,Percent.3,2327
+2.Educ. & Literacy,Females.1,2327
+2.Educ. & Literacy,Percent.4,2327
+2.Educ. & Literacy,Both Sexes.1,2327
+2.Educ. & Literacy,Percent.5,2327
+2.Educ. & Literacy,Population.(13-18).Attending.Secondary,2327
+2.Educ. & Literacy,Percent.6,2327
+2.Educ. & Literacy,Females.2,2327
+2.Educ. & Literacy,Percent.7,2327
+2.Educ. & Literacy,Both Sexes.2,2327
+2.Educ. & Literacy,Percent.8,2327
+2.Educ. & Literacy,Population.15.Years.and.above.below.S4,2327
+2.Educ. & Literacy,Percent.9,2327
+2.Educ. & Literacy,Females.3,2327
+2.Educ. & Literacy,Percent.10,2327
+2.Educ. & Literacy,Both Sexes.3,2327
+2.Educ. & Literacy,Percent.11,2327
+2.Educ. & Literacy,Population.18.Years.and.above.with.Highest.Grade.Completed.O.Level,2327
+2.Educ. & Literacy,Percent.12,2327
+2.Educ. & Literacy,Females.4,2327
+2.Educ. & Literacy,Percent.13,2327
+2.Educ. & Literacy,Both Sexes.4,2327
+2.Educ. & Literacy,Percent.14,2327
+2.Educ. & Literacy,Population.20.Years.and.above.with.Highest.Grade.Completed.ALevel,2327
+2.Educ. & Literacy,Percent.15,2327
+2.Educ. & Literacy,Females.5,2327
+2.Educ. & Literacy,Percent.16,2327
+2.Educ. & Literacy,Both Sexes.5,2327
+2.Educ. & Literacy,Percent.17,2327
+2.Educ. & Literacy,Population.18+.who.are.illiterate,2327
+2.Educ. & Literacy,Percent.18,2327
+2.Educ. & Literacy,Females.6,2327
+2.Educ. & Literacy,Percent.19,2327
+2.Educ. & Literacy,Both Sexes.6,2327
+2.Educ. & Literacy,Percent.20,2327
+2.Educ. & Literacy,Illiteracy.Status.of.other.Age.groups,2327
+2.Educ. & Literacy,Percent.21,2327
+2.Educ. & Literacy,18-30 Illiterate,2327
+2.Educ. & Literacy,Percent.22,2327
+2.Educ. & Literacy,60 and above Illiterate,2327
+2.Educ. & Literacy,Percent.23,2327
+3. Birth Registration,District,7557
+3. Birth Registration,County,7557
+3. Birth Registration,Subcounty,7557
+3. Birth Registration,Parish,7557
+3. Birth Registration,Children.with.a.Birth.Certificate.by.Age,7557
+3. Birth Registration,Percent,7557
+3. Birth Registration,Less than 5 Years,7557
+3. Birth Registration,Percent.1,7557
+3. Birth Registration,0-8 Years,7557
+3. Birth Registration,Percent.2,7557
+3. Birth Registration,0-17 Years,7557
+3. Birth Registration,Percent.3,7557
+4. Parental Survival,District,7557
+4. Parental Survival,County,7557
+4. Parental Survival,Subcounty,7557
+4. Parental Survival,Parish,7557
+4. Parental Survival,Parental.Survival.and.Orphanhood.for.Chidren.0-8.Years,7557
+4. Parental Survival,Percent,7557
+4. Parental Survival,Lost Both Parents,7557
+4. Parental Survival,Percent.1,7484
+4. Parental Survival,Lost Atleast a Parent,7557
+4. Parental Survival,Percent.2,7484
+4. Parental Survival,Have Both Parents,7557
+4. Parental Survival,Percent.3,7557
+4. Parental Survival,Parental.Survival.and.Orphanhood.for.Chidren.0-17.Years,7557
+4. Parental Survival,Percent.4,7557
+4. Parental Survival,Lost Both Parents.1,7557
+4. Parental Survival,Percent.5,7548
+4. Parental Survival,Lost Atleast a Parent.1,7557
+4. Parental Survival,Percent.6,7548
+4. Parental Survival,Have Both Parents.1,7557
+4. Parental Survival,Percent.7,7557
+5.Disability,District,7557
+5.Disability,County,7557
+5.Disability,Subcounty,7557
+5.Disability,Parish,7557
+5.Disability,2.Years+.With.Disability,7557
+5.Disability,Percent,7557
+5.Disability,2.Years+.with.Seeing.Disability,7557
+5.Disability,Percent.1,7557
+5.Disability,2.Years+.with.Hearing.Disability,7557
+5.Disability,Percent.2,7557
+5.Disability,2.Years+.with.Walking.Disability,7557
+5.Disability,Percent.3,7557
+5.Disability,2.Years+.with.Remembering.Disability,7557
+5.Disability,Percent.4,7557
+5.Disability,2-17.With.Disability,7557
+5.Disability,Percent.5,7557
+5.Disability,18-30.With.Disability,7557
+5.Disability,Percent.6,7557
+5.Disability,60.Years+.With.Disability,7557
+5.Disability,Percent.7,7557
+6. Marriage & Child Bearing,District,2327
+6. Marriage & Child Bearing,County,2327
+6. Marriage & Child Bearing,Subcounty,2327
+6. Marriage & Child Bearing,Parish,2327
+6. Marriage & Child Bearing,Married.(10.Years+),2327
+6. Marriage & Child Bearing,Percent,2327
+6. Marriage & Child Bearing,Married.(18.Years+),2327
+6. Marriage & Child Bearing,Percent.1,2327
+6. Marriage & Child Bearing,50.Years+.Widowed,2327
+6. Marriage & Child Bearing,Percent.2,2327
+6. Marriage & Child Bearing,Ever.Married.(10-17.Years),2327
+6. Marriage & Child Bearing,Percent.3,2327
+6. Marriage & Child Bearing,Ever.Married.(10-19.Years),2327
+6. Marriage & Child Bearing,Percent.4,2327
+6. Marriage & Child Bearing,Ever.Given.Birth.(12-17.Years),2327
+6. Marriage & Child Bearing,Percent.5,2327
+6. Marriage & Child Bearing,Ever.Given.Birth.(12-19.Years),2327
+6. Marriage & Child Bearing,Percent.6,2327
+7. Working Status,District,7557
+7. Working Status,County,7557
+7. Working Status,Subcounty,7557
+7. Working Status,Parish,7557
+7. Working Status,Working.(10-15),7557
+7. Working Status,Percent,7557
+7. Working Status,Working.(10-17),7557
+7. Working Status,Percent.1,7557
+7. Working Status,Working.(18-30),7557
+7. Working Status,Percent.2,7557
+7. Working Status,Working.(14-64),7557
+7. Working Status,Percent.3,7557
+7. Working Status,Working.(18.Years.and.above),7557
+7. Working Status,Percent.4,7557
+7. Working Status,Working.(60.Years.and.above),7557
+7. Working Status,Percent.5,7557
+7. Working Status,NEET.(18-30),7557
+7. Working Status,Percent.6,7557
+ICT,District,7557
+ICT,County,7557
+ICT,Subcounty,7557
+ICT,Parish,7557
+ICT,Ownerahip.of.mobile.phones.among.10.years+,7557
+ICT,Percent,7557
+ICT,females,7557
+ICT,Percent.1,7557
+ICT,Both Sexes ,7557
+ICT,Percent.2,7557
+ICT,Ownerahip.of.mobile.phones.among.18-30.Years,7557
+ICT,Percent.3,7557
+ICT,females.1,7557
+ICT,Percent.4,7553
+ICT,Both Sexes .1,7557
+ICT,Percent.5,7557
+ICT,Internet.Usage.among.10.years+,7557
+ICT,Percent.6,7557
+ICT,females.2,7557
+ICT,Percent.7,7557
+ICT,Both Sexes .2,7557
+ICT,Percent.8,7557
+ICT,Internet.Usage.among.18-30.Years,7557
+ICT,Percent.9,7557
+ICT,females.3,7557
+ICT,Percent.10,7557
+ICT,Both Sexes .3,7557
+ICT,Percent.11,7557
+9. Housing Conditions,District,7557
+9. Housing Conditions,County,7557
+9. Housing Conditions,Subcounty,7557
+9. Housing Conditions,Parish,7557
+9. Housing Conditions,Permanent.Roof,7557
+9. Housing Conditions,Percent,7557
+9. Housing Conditions,Permanent.Wall,7557
+9. Housing Conditions,Percent.1,7557
+9. Housing Conditions,Permanent.Floor,7557
+9. Housing Conditions,Percent.2,7557
+9. Housing Conditions,Semi.Permanent.Dwelling.Unit,7557
+9. Housing Conditions,Percent.3,7557
+9. Housing Conditions,Temporary.Dwelling.Unit,7557
+9. Housing Conditions,Percent.4,7502
+10. Community Services,District,7557
+10. Community Services,County,7557
+10. Community Services,Subcounty,7557
+10. Community Services,Parish,7557
+10. Community Services,Distance.to.any.Primary.school,7557
+10. Community Services,Percent,7547
+10. Community Services,Distance.to.a.Public.Primary.school,7557
+10. Community Services,Percent.1,7556
+10. Community Services,Distance.to.any.Secondary.school,7557
+10. Community Services,Percent.2,7549
+10. Community Services,Distance.to.a.Public.Secondary.school,7557
+10. Community Services,Percent.3,7557
+10. Community Services,Distance.to.any.Health.facility,7557
+10. Community Services,Percent.4,7551
+10. Community Services,Distance.to.a.public.Health.facility,7557
+10. Community Services,Percent.5,7557
+10. Community Services,Distance.to.police.station/post,7557
+10. Community Services,Percent.6,7557
+11. H Health and Hygiene,District,7557
+11. H Health and Hygiene,County,7557
+11. H Health and Hygiene,Subcounty,7557
+11. H Health and Hygiene,Parish,7557
+11. H Health and Hygiene,With any mosquito net,7557
+11. H Health and Hygiene,Percent,7557
+11. H Health and Hygiene,With free Net,7557
+11. H Health and Hygiene,Percent.1,7557
+11. H Health and Hygiene,Acess to piped Water,7557
+11. H Health and Hygiene,Percent.2,7555
+11. H Health and Hygiene,With Access to Borehole,7557
+11. H Health and Hygiene,Percent.3,7552
+11. H Health and Hygiene,With Any toilet facility,7557
+11. H Health and Hygiene,Percent.4,7540
+11. H Health and Hygiene,HHds that properly dispose off solid waste ,7557
+11. H Health and Hygiene,Percent.5,7557
+11. H Health and Hygiene,Not living in decent dwellings,7557
+11. H Health and Hygiene,Percent.6,7557
+12. Household Assets,District,7557
+12. Household Assets,County,7557
+12. Household Assets,Subcounty,7557
+12. Household Assets,Parish,7557
+12. Household Assets,Households.that.are.owner.occupied,7557
+12. Household Assets,Percent,7557
+12. Household Assets,Among male headed HHds,7557
+12. Household Assets,Percent.1,7557
+12. Household Assets,Among female headed HHds,7557
+12. Household Assets,Percent.2,7557
+12. Household Assets,Households.that.own.a.television,7557
+12. Household Assets,Percent.3,7557
+12. Household Assets,Households.that.own.a.computer,7557
+12. Household Assets,Percent.4,7557
+12. Household Assets,Households.that.own.a.bicycle,7557
+12. Household Assets,Percent.5,7557
+12. Household Assets,Households.that.own.a.radio,7557
+12. Household Assets,Percent.6,7557
+13. Other HH Xteristics,District,7557
+13. Other HH Xteristics,County,7557
+13. Other HH Xteristics,Subcounty,7557
+13. Other HH Xteristics,Parish,7557
+13. Other HH Xteristics,Household's Main source of information,7557
+13. Other HH Xteristics,Percent,7557
+13. Other HH Xteristics,Community Announcer,7557
+13. Other HH Xteristics,Percent.1,7553
+13. Other HH Xteristics,telephone,7557
+13. Other HH Xteristics,Percent.2,7557
+13. Other HH Xteristics,HHds that received remittances  in the last 12 months,7557
+13. Other HH Xteristics,Percent.3,7557
+13. Other HH Xteristics,HHds where any member posesses a bank account,7557
+13. Other HH Xteristics,Percent.4,7557
+13. Other HH Xteristics,HHds depending on subsistence farming ,7557
+13. Other HH Xteristics,Percent.5,7557
+13. Other HH Xteristics,Households where (all members aged 5 years+) consume less than two meals in a day,7557
+13. Other HH Xteristics,Percent.6,7557
+13. Other HH Xteristics,Households main source of lighting,7557
+13. Other HH Xteristics,Percent.7,7557
+13. Other HH Xteristics,Tadooba,7557
+13. Other HH Xteristics,Percent.8,7557
+1.Population and HH Composition,District,5230
+1.Population and HH Composition,County,5230
+1.Population and HH Composition,Subcounty,5230
+1.Population and HH Composition,Parish,5230
+1.Population and HH Composition,Population.Size.by.Parish,5230
+1.Population and HH Composition,Female,5230
+1.Population and HH Composition,Sex Ratio ,5230
+1.Population and HH Composition,Total,5230
+1.Population and HH Composition,Headship.of.Households.by.Sex,5230
+1.Population and HH Composition,Percent,5230
+1.Population and HH Composition,Fenale Headed,5230
+1.Population and HH Composition,Percent.1,5230
+1.Population and HH Composition,Household.Headship.by.specific.age.groups,5230
+1.Population and HH Composition,Percent.2,5230
+1.Population and HH Composition,18-30,5230
+1.Population and HH Composition,Percent.3,5230
+1.Population and HH Composition,60+,5230
+1.Population and HH Composition,Percent.4,5230
+1.Population and HH Composition,Total HHds,5230
+1.Population and HH Composition,HHd.Population.by.Broad.Ages,5230
+1.Population and HH Composition,Percent.5,5230
+1.Population and HH Composition,18-30.1,5230
+1.Population and HH Composition,Percent.6,5230
+1.Population and HH Composition,31-59,5230
+1.Population and HH Composition,Percent.7,5230
+1.Population and HH Composition,60+.1,5230
+1.Population and HH Composition,Percent.8,5230
+1.Population and HH Composition,Total HH Pop,5230
+1.Population and HH Composition,Population.Distribution.by.Special.Age.groups,5230
+1.Population and HH Composition,Percent.9,5230
+1.Population and HH Composition,0-4 Years,5230
+1.Population and HH Composition,Percent.10,5230
+1.Population and HH Composition,0-8 Years,5230
+1.Population and HH Composition,Percent.11,5230
+1.Population and HH Composition,2-8 Years,5230
+1.Population and HH Composition,Percent.12,5230
+1.Population and HH Composition,2-17 Years,5230
+1.Population and HH Composition,Percent.13,5230
+1.Population and HH Composition,6-12 Years,5230
+1.Population and HH Composition,Percent.14,5230
+1.Population and HH Composition,6-15 Years,5230
+1.Population and HH Composition,Percent.15,5230
+1.Population and HH Composition,10-15 Years,5230
+1.Population and HH Composition,Percent.16,5230
+1.Population and HH Composition,10-17 Years,5230
+1.Population and HH Composition,Percent.17,5230
+1.Population and HH Composition,15-24 Years,5230
+1.Population and HH Composition,Percent.18,5230
+1.Population and HH Composition,16-24 Years,5230
+1.Population and HH Composition,Percent.19,5230
+1.Population and HH Composition,15-29 Years,5230
+1.Population and HH Composition,Percent.20,5230
+1.Population and HH Composition,2 Years and Above,5230
+1.Population and HH Composition,Percent.21,5230
+1.Population and HH Composition,10 Years and Above,5230
+1.Population and HH Composition,Percent.22,5230
+1.Population and HH Composition,15 Years and Above,5230
+1.Population and HH Composition,Percent.23,5230
+1.Population and HH Composition,18 Years and above,5230
+1.Population and HH Composition,Percent.24,5230
+1.Population and HH Composition,20 Years and above,5230
+1.Population and HH Composition,Percent.25,5230
+1.Population and HH Composition,65 Years and Above,5230
+1.Population and HH Composition,Percent.26,5230
+2.Education and Literacy,District,5230
+2.Education and Literacy,County,5230
+2.Education and Literacy,Subcounty,5230
+2.Education and Literacy,Parish,5230
+2.Education and Literacy,Population.6-12.Years.not.attending.school,5230
+2.Education and Literacy,Percent,5230
+2.Education and Literacy,Females,5230
+2.Education and Literacy,Percent.1,5230
+2.Education and Literacy,Both Sexes,5230
+2.Education and Literacy,Percent.2,5230
+2.Education and Literacy,Population.(6-12).Attending.Primary.School,5230
+2.Education and Literacy,Percent.3,5230
+2.Education and Literacy,Females.1,5230
+2.Education and Literacy,Percent.4,5230
+2.Education and Literacy,Both Sexes.1,5230
+2.Education and Literacy,Percent.5,5230
+2.Education and Literacy,Population.(13-18).Attending.Secondary,5230
+2.Education and Literacy,Percent.6,5230
+2.Education and Literacy,Females.2,5230
+2.Education and Literacy,Percent.7,5230
+2.Education and Literacy,Both Sexes.2,5230
+2.Education and Literacy,Percent.8,5230
+2.Education and Literacy,Population.15.Years.and.above.below.S4,5230
+2.Education and Literacy,Percent.9,5230
+2.Education and Literacy,Females.3,5230
+2.Education and Literacy,Percent.10,5230
+2.Education and Literacy,Both Sexes.3,5230
+2.Education and Literacy,Percent.11,5230
+2.Education and Literacy,Population.18.Years.and.above.with.Highest.Grade.Completed.O.Level,5230
+2.Education and Literacy,Percent.12,5230
+2.Education and Literacy,Females.4,5230
+2.Education and Literacy,Percent.13,5229
+2.Education and Literacy,Both Sexes.4,5230
+2.Education and Literacy,Percent.14,5230
+2.Education and Literacy,Population.20.Years.and.above.with.Highest.Grade.Completed.ALevel,5230
+2.Education and Literacy,Percent.15,5229
+2.Education and Literacy,Females.5,5230
+2.Education and Literacy,Percent.16,5223
+2.Education and Literacy,Both Sexes.5,5230
+2.Education and Literacy,Percent.17,5224
+2.Education and Literacy,Population.18+.who.are.illiterate,5230
+2.Education and Literacy,Percent.18,5230
+2.Education and Literacy,Females.6,5230
+2.Education and Literacy,Percent.19,5230
+2.Education and Literacy,Both Sexes.6,5230
+2.Education and Literacy,Percent.20,5230
+2.Education and Literacy,Illiteracy.Status.of.other.Age.groups,5230
+2.Education and Literacy,Percent.21,5230
+2.Education and Literacy,18-30 Illiterate,5230
+2.Education and Literacy,Percent.22,5230
+2.Education and Literacy,60 and above Illiterate,5230
+2.Education and Literacy,Percent.23,5230
+6. Marriage and Child Bearing,District,5230
+6. Marriage and Child Bearing,County,5230
+6. Marriage and Child Bearing,Subcounty,5230
+6. Marriage and Child Bearing,Parish,5230
+6. Marriage and Child Bearing,Married.(10.Years+),5230
+6. Marriage and Child Bearing,Percent,5230
+6. Marriage and Child Bearing,Married.(18.Years+),5230
+6. Marriage and Child Bearing,Percent.1,5230
+6. Marriage and Child Bearing,50.Years+.Widowed,5230
+6. Marriage and Child Bearing,Percent.2,5230
+6. Marriage and Child Bearing,Ever.Married.(10-17.Years),5230
+6. Marriage and Child Bearing,Percent.3,5230
+6. Marriage and Child Bearing,Ever.Married.(10-19.Years),5230
+6. Marriage and Child Bearing,Percent.4,5230
+6. Marriage and Child Bearing,Ever.Given.Birth.(12-17.Years),5230
+6. Marriage and Child Bearing,Percent.5,5230
+6. Marriage and Child Bearing,Ever.Given.Birth.(12-19.Years),5230
+6. Marriage and Child Bearing,Percent.6,5230
